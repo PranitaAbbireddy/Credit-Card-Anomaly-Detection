@@ -15,7 +15,7 @@ This dashboard provides:
 - Model comparison with precision, recall, F1, and ROC AUC metrics.
 - An interactive prediction playground, where users can input feature values and test fraud detection models in real-time.
 - Dynamic dataset upload support – users can upload their own credit card transaction datasets.
-- 
+  
 ## Dataset
 The app supports dynamic CSV upload. By default, the dataset used in this project is the Credit Card Fraud Detection dataset, which includes the following features:
 
